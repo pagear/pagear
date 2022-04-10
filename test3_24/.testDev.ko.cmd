@@ -1,0 +1,1 @@
+cmd_/home/ye/individual/linux_imx6u/linux/linux_devices/test3_24/testDev.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ye/individual/linux_imx6u/linux/linux_devices/test3_24/testDev.ko /home/ye/individual/linux_imx6u/linux/linux_devices/test3_24/testDev.o /home/ye/individual/linux_imx6u/linux/linux_devices/test3_24/testDev.mod.o

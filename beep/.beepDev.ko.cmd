@@ -1,0 +1,1 @@
+cmd_/home/ye/individual/linux_imx6u/linux/linux_devices/beep/beepDev.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ye/individual/linux_imx6u/linux/linux_devices/beep/beepDev.ko /home/ye/individual/linux_imx6u/linux/linux_devices/beep/beepDev.o /home/ye/individual/linux_imx6u/linux/linux_devices/beep/beepDev.mod.o

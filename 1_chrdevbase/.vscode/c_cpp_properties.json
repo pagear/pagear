@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ye/individual/linux_imx6u/linux/kernel/alientek_linux/include", 
+                "/home/ye/individual/linux_imx6u/linux/kernel/alientek_linux/arch/arm/include", 
+                "/home/ye/individual/linux_imx6u/linux/kernel/alientek_linux/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
+//"compilerPath": "/usr/bin/clang",
+
+

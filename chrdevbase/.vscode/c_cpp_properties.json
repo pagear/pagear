@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ye/individual/linux_imx6u/linux/kernel/alientek_linux/include",
+                "/home/ye/individual/linux_imx6u/linux/kernel/alientek_linux/arch/arm/include",
+                "/home/ye/individual/linux_imx6u/linux/kernel/alientek_linux/arch/arm/include/generated/"
+
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
+ // "compilerPath": "/usr/bin/gcc",
+ //               "/home/ye/individual/linux_imx6u/linux/kernel/NXP_EVK_linux/linux-imx-rel_imx_4.1.15_2.1.0_ga_alientek/include",
+ //               "/home/ye/individual/linux_imx6u/linux/kernel/NXP_EVK_linux/linux-imx-rel_imx_4.1.15_2.1.0_ga_alientek/arch/arm/include",
+ //               "/home/ye/individual/linux_imx6u/linux/kernel/NXP_EVK_linux/linux-imx-rel_imx_4.1.15_2.1.0_ga_alientek/arch/arm/include/generated/"
+
+
+
